@@ -53,6 +53,7 @@ rules:
   - 'DOMAIN,safebrowsing.urlsec.qq.com,DIRECT'
   - 'DOMAIN,safebrowsing.googleapis.com,DIRECT'
   - 'DOMAIN,developer.apple.com,v2net'
+  - 'DOMAIN-SUFFIX,cloudflare.com,v2net'
   - 'DOMAIN-SUFFIX,digicert.com,v2net'
   - 'DOMAIN,ocsp.apple.com,v2net'
   - 'DOMAIN,ocsp.comodoca.com,v2net'
